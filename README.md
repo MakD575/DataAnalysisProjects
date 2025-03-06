@@ -1,0 +1,1 @@
+This is a collection of my data analysis projects that I continously add to. The projects range in complexity, topics, and are a mixture of data exploration, data visualization, and data analysis using various software such as SQL Server, MySQL, Python, Tableau, and Power BI.
